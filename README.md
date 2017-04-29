@@ -11,7 +11,7 @@ The user can enable automatic shutdown for each print by using a checkbox in the
 Install via the bundled [Plugin Manager](https://github.com/foosel/OctoPrint/wiki/Plugin:-Plugin-Manager)
 or manually using this URL:
 
-    https://github.com/OctoPrint/OctoPrint-AutomaticShutdown/archive/master.zip
+    https://github.com/neddyboy02/OctoPrint-AutomaticShutdown/archive/master.zip
 
 ## Configuration
 
