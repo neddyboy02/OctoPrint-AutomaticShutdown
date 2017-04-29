@@ -153,7 +153,7 @@ class AutomaticshutdownPlugin(octoprint.plugin.TemplatePlugin,
                         self._shutdown_system()
 
 	def _shutdown_system(self):
-		shutdown_command = self._settings.global_get(["server", "commands", "systemShutdownCommand"])
+		shutdown_command = self._settings.global_get(["server", "commands", "printerShutdownCommand"])
 		self._logger.info("Shutting down system with command: {command}".format(command=shutdown_command))
 		try:
 			import sarge
