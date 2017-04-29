@@ -24,10 +24,10 @@ plugin_description = "Enables the system to be automatically shut down after a p
 plugin_author = "Jim Needham"
 
 # The plugin's author's mail address.
-plugin_author_email = "nicanor.romerovenier@bq.com"
+plugin_author_email = "jimneedham@me.com"
 
 # The plugin's homepage URL. Can be overwritten within OctoPrint's internal data via __plugin_url__ in the plugin module
-plugin_url = "https://github.com/neddyboy02/OctoPrint-AutomaticShutdown.git"
+plugin_url = "https://github.com/neddyboy02/OctoPrint-AutomaticShutdown"
 
 # The plugin's license. Can be overwritten within OctoPrint's internal data via __plugin_license__ in the plugin module
 plugin_license = "AGPLv3"
